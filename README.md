@@ -10,7 +10,7 @@ Here’s an updated GitHub profile README based on the provided resume:
 - 💞️ I’m eager to collaborate on innovative projects, particularly those that push the boundaries of web and mobile development.
 - 🌐 Besides development, I’m skilled in multimedia content creation and web design, having worked as a freelance web developer and content creator.
 - 🛠️ My toolbox includes Node.js, IntelliJ, VS Code, GitHub, and Android Studio, and I’m actively working towards certifications in Google Data Analytics, Microsoft UX Design, and Meta Back-End Development.
-- 📫 How to reach me: fatemahnoor06@gmail.com | [LinkedIn](https://www.linkedin.com/in/fatemah-sayed-noor-7a138a1a1/) | [GitHub](https://github.com/FatemahNur)
+- 📫 How to reach me: fatemahnur786@gmail.com | [LinkedIn](https://www.linkedin.com/in/fatemah-sayed-noor-7a138a1a1/) | [GitHub](https://github.com/FatemahNur)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I’m multilingual and fluent in English, Hindi, Urdu, Burmese, and Malay, which helps me communicate effectively in diverse environments. Plus, I love solving puzzles and have a collection of over 100 different types!
 
