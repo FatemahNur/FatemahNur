@@ -13,9 +13,9 @@ I build practical, user-focused applications ranging from full-stack web systems
 
 ## Tech Stack
 
-**Languages:** Java · Python · JavaScript · C# · SQL  
+**Languages:** Java · Python · JavaScript · C# · SQL. C++
 **Web:** HTML · CSS · React · Node.js · Express  
-**Tools:** Git · GitHub · VS Code · IntelliJ · Unity  
+**Tools:** Git · GitHub · VS Code · IntelliJ · Unity  ,Scence Builder, Cameo
 
 
 
